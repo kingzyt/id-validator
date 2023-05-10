@@ -1,4 +1,4 @@
-module github.com/guanguans/id-validator
+module github.com/kingzyt/id-validator
 
 go 1.14
 
